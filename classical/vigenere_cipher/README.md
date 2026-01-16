@@ -1,6 +1,6 @@
-# Vigenère Cipher
+# Vigenere Cipher
 
-The Vigenère Cipher is an encryption method that uses a series of Caesar Ciphers based on the letters of a keyword.  
+The Vigenere Cipher is an encryption method that uses a series of Caesar Ciphers based on the letters of a keyword.  
 It provides more security than a simple Caesar Cipher by applying multiple shifts.
 
 ## How it Works
